@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 💬 LAN Chat — Anonymous Local Network Chatroom
+=======
+# LAN_CHAT# 💬 LAN Chat — Anonymous Local Network Chatroom
+>>>>>>> f9bb2e3 (Force adding node_modules)
 
 A real-time anonymous chatroom for users on the same local network (LAN).  
 Built with **Node.js**, **Express**, and **Socket.IO**.
